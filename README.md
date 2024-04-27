@@ -11,13 +11,14 @@
 
 ## Projets
 
-### ZPOQ - Bot Discord Communautaire
+### ZPOQ - Bot Discord Communautaire ![ZPOQ](https://img.shields.io/badge/ZPOQ-Bot_Communautaire-brightgreen)
 
 - **Description:** ZPOQ est un bot Discord communautaire configurable via des commandes slash et un panneau web.
 - **Rôle:** Développeur Web Fullstack & Fondateur
 - **Technologies utilisées:** Discord API, PHP, HTML, CSS, JavaScript
 
-### CLIENTXCMS & CTXHosting
+
+### CLIENTXCMS & CTXHosting 
 
 - **Description:** CLIENTXCMS est une plateforme de gestion de contenu (CMS) spécialisée dans l'hébergement. .
 - **Rôle:** Responsable & Commercial
