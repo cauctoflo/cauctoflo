@@ -27,4 +27,3 @@
 Vous pouvez me contacter sur [LinkedIn](zpoq.fr/florentindev/contact) pour toute opportunité professionnelle ou collaboration.
 
 N'hésitez pas à consulter mes dépôts GitHub pour découvrir mes projets OPENSOURCE et contributions !
-
