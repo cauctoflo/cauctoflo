@@ -7,7 +7,7 @@
 - **Expérience en développement:**
   - Développeur Skript depuis 2019
   - Développeur Web (PHP, HTML, CSS, JS) avec une expertise dans les frameworks Laravel & Tailwind CSS depuis 2021.
-- **Éducation:** Actuellement en première avec une spécialisation en NSI (Numérique Sciences Informatiques).
+- **Éducation:** Actuellement en Terminale avec une spécialisation en NSI (Numérique Sciences Informatiques).
 
 ## Projets
 
