@@ -58,6 +58,6 @@ Je travaille principalement avec :
 ---
 
 <p align="center">
-  📫 Tu peux me contacter à [tonemail@example.com](mailto:tonemail@example.com) !
+  📫 Tu peux me contacter à !
 </p>
 
