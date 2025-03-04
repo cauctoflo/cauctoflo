@@ -58,6 +58,6 @@ Je travaille principalement avec :
 ---
 
 <p align="center">
-  📫 Tu peux me contacter à !
+  📫 Tu peux me contacter à florentindev@clientxcms.com !
 </p>
 
