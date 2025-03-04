@@ -45,8 +45,8 @@ Je travaille principalement avec :
 
 ## 🚀 Mes Projets :
 
-- 💻 [Projet 1](https://github.com/cauctoflo/Project1) – Description du projet
-- 🖥️ [Projet 2](https://github.com/cauctoflo/Project2) – Description du projet
+- 💻 [Dév Junior de ClientXCMS](https://clientxcms) – CMS pour hébergeur
+- 🖥️ [Mainteneur de Host....](https://cloudyx.fr) – Promouvoir l'hébergement de demain
 
 ---
 
