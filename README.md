@@ -1,63 +1,72 @@
-# Salut, moi c'est Florentin 👋
+# Salut, moi c’est Florentin — Développeur Web Junior (France)
 
-### 🌍 Je suis un développeur web de 17 ans passionné par le code et la création de projets web modernes.
-
-Je travaille principalement avec :
-- 🌟 **Laravel** : Framework PHP pour des applications web robustes.
-- 🎨 **TailwindCSS** & **Bootstrap** : Pour des interfaces utilisateur modernes et réactives.
-- 🛠️ **Blade** & **Vite** : Améliorer l'efficacité et la vitesse des projets.
+> 🇫🇷 Version française par défaut · English below
 
 ---
 
-## 📊 Mon activité sur GitHub
+## À propos de moi
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauctoflo&show_icons=true&theme=radical&count_private=true" alt="cauctoflo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cauctoflo&theme=radical" alt="cauctoflo's GitHub Streak" />
-</p>
+Je suis un jeune développeur web **full‑stack** (17 ans) passionné d’informatique depuis gamin. J’aime concevoir des applis modernes (Laravel, React/Next.js, Tailwind) mais aussi mettre les mains dans l’**infrastructure** : serveurs Linux, conteneurs Docker, clusters haute dispo. Mon parcours a commencé sur Minecraft (Skript, Spigot, Paper, plugins Java), puis s’est étendu au web et à l’ops.
 
-<!-- Language Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauctoflo&layout=compact&theme=radical" alt="Top Langages utilisés" />
-</p>
+* 🎓 Formation : UFR MIM – Université de Lorraine (Metz)
+* 🧰 Stack principale : **PHP/Laravel**, **JavaScript/TypeScript**, **React/Next.js**, **TailwindCSS**, **MySQL/PostgreSQL**
+* 🖥️ Ops/Infra : **Linux/Debian**, **Docker**, **Nginx/Apache**, **Proxmox**, **Mikrotik**, **Grafana**, **Anti‑DDoS**, **HA/Failover**
+* 🧪 Autres : **Java** (Spigot/Paper), **Python**, **Redis**
 
-### ⚡ Mon activité par mois :
+## Ce que je cherche
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauctoflo&theme=react-dark&bg_color=20232a&hide_border=true" alt="Graphique d'activité GitHub" />
-</p>
+* 🎯 **Job étudiant** ou petites **missions freelance** 
+* 🧩 Développement web (frontend ou full‑stack), APIs, ou projets infra légers
 
----
+Je cherche des expériences où je peux **apprendre vite** tout en apportant une réelle valeur.
 
-## 🔧 Technologies & Outils
+## Réalisations marquantes
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" />
-  <img src="https://img.shields.io/badge/Code-TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" />
-  <img src="https://img.shields.io/badge/Code-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
-  <img src="https://img.shields.io/badge/Tools-Vite-orange?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
-  <img src="https://img.shields.io/badge/Tools-Blade-blueviolet?style=for-the-badge&logo=blade&logoColor=white" alt="Blade Badge" />
-</p>
+* ⚙️ **Infra haute‑disponibilité @ Fardihosting** : clusters Proxmox avec failover, routage BGP/VRRP sur Mikrotik, durcissement anti‑DDoS.
+* 🧩 **Addons & thèmes ClientXCMS** (bientôt open‑source) : dev PHP/JS, refactor perf, support avancé.
+* 🎮 **Parcours Minecraft → Java → Web** : de Skript/Spigot à Java plugins, puis web & infra pro.
 
----
+## Projets sélectionnés
 
-## 🚀 Mes Projets :
+* **ClientXCMS** — bientôt open‑source · `github.com/cauctoflo` (repo à venir)
+* **Fardihosting.fr** — site vitrine/infra · privé (showcase bientôt)
+* **zSite-Laravel** — projet Laravel (Blade) · `github.com/cauctoflo/zSite-Laravel`
 
-- 💻 [Dév Junior de ClientXCMS](https://clientxcms) – CMS pour hébergeur
-- 🖥️ [Mainteneur de Host....](https://cloudyx.fr) – Promouvoir l'hébergement de demain
+> Portfolio complet : `https://florentin.cloudyx.fr/`
 
----
+## Compétences
 
-### 🏆 Mes objectifs :
-- 🎯 Devenir expert Laravel et TailwindCSS
-- 🌐 Travailler sur des projets open source
-- 📚 Toujours apprendre et explorer de nouvelles technologies !
+**Langages & Frameworks** : PHP, Laravel, JavaScript, TypeScript, React, Next.js, Vue, Python, Java, Symfony, TailwindCSS
+**Bases de données** : MySQL, PostgreSQL, Redis
+**Systèmes & DevOps** : Linux/Debian, Docker, Nginx, Apache, Proxmox, Mikrotik, Anti‑DDoS, HA/Failover, Monitoring/Grafana
+**Outils** : GitHub, Notion, Trello, Confluence, phpMyAdmin
+
+## Contact
+
+* 🌐 Portfolio : `https://florentin.cloudyx.fr/`
+* 💼 LinkedIn : `https://www.linkedin.com/in/florentin-fouligny-6a45b737b/`
+* 📧 Email : `florentin.fouligny@fardihosting.fr`
 
 ---
 
-<p align="center">
-  📫 Tu peux me contacter à florentindev@clientxcms.com !
-</p>
+## EN — About me
 
+I’m a 17‑year‑old junior full‑stack developer from Metz (France), passionate about **web & infrastructure**. I build apps with Laravel/React/Tailwind and know how to run them in production on Linux/Docker. Background in Minecraft → Java → web, now working on **high‑availability hosting** and client projects.
+
+Looking for **student jobs / part‑time dev missions** (remote or Metz).
+
+---
+
+### 📊 GitHub Stats & Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauctoflo\&layout=compact\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cauctoflo\&show_icons=true\&theme=radical)
+
+---
+
+### 🚀 Badges
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
