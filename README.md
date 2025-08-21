@@ -8,7 +8,7 @@
 
 Je suis un jeune développeur web **full‑stack** (17 ans) passionné d’informatique depuis gamin. J’aime concevoir des applis modernes (Laravel, React/Next.js, Tailwind) mais aussi mettre les mains dans l’**infrastructure** : serveurs Linux, conteneurs Docker, clusters haute dispo. Mon parcours a commencé sur Minecraft (Skript, Spigot, Paper, plugins Java), puis s’est étendu au web et à l’ops.
 
-* 🎓 Formation : UFR MIM – Université de Lorraine (Metz)
+* 🎓 Formation : UFR MIM – Université de Lorraine 
 * 🧰 Stack principale : **PHP/Laravel**, **JavaScript/TypeScript**, **React/Next.js**, **TailwindCSS**, **MySQL/PostgreSQL**
 * 🖥️ Ops/Infra : **Linux/Debian**, **Docker**, **Nginx/Apache**, **Proxmox**, **Mikrotik**, **Grafana**, **Anti‑DDoS**, **HA/Failover**
 * 🧪 Autres : **Java** (Spigot/Paper), **Python**, **Redis**
@@ -28,9 +28,8 @@ Je cherche des expériences où je peux **apprendre vite** tout en apportant une
 
 ## Projets sélectionnés
 
-* **ClientXCMS** — bientôt open‑source · `github.com/cauctoflo` (repo à venir)
-* **Fardihosting.fr** — site vitrine/infra · privé (showcase bientôt)
-* **zSite-Laravel** — projet Laravel (Blade) · `github.com/cauctoflo/zSite-Laravel`
+* **ClientXCMS** — bientôt open‑source · `github.com/clientxcms` (repo à venir)
+* **Fardihosting.fr** — site vitrine/infra · privé `fardihosting.fr`
 
 > Portfolio complet : `https://florentin.cloudyx.fr/`
 
