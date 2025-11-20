@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-Je suis un jeune développeur web **full‑stack** (17 ans) passionné d’informatique depuis gamin. J’aime concevoir des applis modernes (Laravel, React/Next.js, Tailwind) mais aussi mettre les mains dans l’**infrastructure** : serveurs Linux, conteneurs Docker, clusters haute dispo. Mon parcours a commencé sur Minecraft (Skript, Spigot, Paper, plugins Java), puis s’est étendu au web et à l’ops.
+Je suis un jeune développeur web **full‑stack** (18 ans) passionné d’informatique depuis gamin. J’aime concevoir des applis modernes (Laravel, React/Next.js, Tailwind) mais aussi mettre les mains dans l’**infrastructure** : serveurs Linux, conteneurs Docker, clusters haute dispo. Mon parcours a commencé sur Minecraft (Skript, Spigot, Paper, plugins Java), puis s’est étendu au web et à l’ops.
 
 * 🎓 Formation : UFR MIM – Université de Lorraine 
 * 🧰 Stack principale : **PHP/Laravel**, **JavaScript/TypeScript**, **React/Next.js**, **TailwindCSS**, **MySQL/PostgreSQL**
@@ -42,7 +42,7 @@ Je cherche des expériences où je peux **apprendre vite** tout en apportant une
 
 ## Contact
 
-* 🌐 Portfolio : `https://florentin.cloudyx.fr/`
+* 🌐 Portfolio : `indisponnible`
 * 💼 LinkedIn : `https://www.linkedin.com/in/florentin-fouligny-6a45b737b/`
 * 📧 Email : `florentin.fouligny@fardihosting.fr`
 
@@ -50,7 +50,7 @@ Je cherche des expériences où je peux **apprendre vite** tout en apportant une
 
 ## EN — About me
 
-I’m a 17‑year‑old junior full‑stack developer from Metz (France), passionate about **web & infrastructure**. I build apps with Laravel/React/Tailwind and know how to run them in production on Linux/Docker. Background in Minecraft → Java → web, now working on **high‑availability hosting** and client projects.
+I’m a 18‑year‑old junior full‑stack developer from Metz (France), passionate about **web & infrastructure**. I build apps with Laravel/React/Tailwind and know how to run them in production on Linux/Docker. Background in Minecraft → Java → web, now working on **high‑availability hosting** and client projects.
 
 Looking for **student jobs / part‑time dev missions** (remote or Metz).
 
