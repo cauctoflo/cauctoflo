@@ -51,8 +51,7 @@ Je suis un développeur **full‑stack** passionné d'informatique depuis mes 14
 | Projet | Description | Lien |
 |--------|-------------|------|
 | **Portfolio** | Mon site personnel full-stack | [florentindev.eu](https://florentindev.eu) |
-| **ClientXCMS** | CMS PHP/JS — bientôt open‑source | [github.com/clientxcms](https://github.com/clientxcms) |
-| **Novarya** | Serveur Minecraft custom (plugins, infra) | En cours |
+| **StreamlineAgency** | Du DevOps à du dev full stack | [streamlineagency.eu](https://streamline.stardium.fr/)
 
 ---
 
@@ -60,16 +59,6 @@ Je suis un développeur **full‑stack** passionné d'informatique depuis mes 14
 
 - 💼 **Job étudiant** ou petites **missions freelance**
 - 🧩 Développement web (frontend, full‑stack), APIs, projets infra
-- ⚡ Des expériences où je peux **apprendre vite** tout en apportant une vraie valeur
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauctoflo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauctoflo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
